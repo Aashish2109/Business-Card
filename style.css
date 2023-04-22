@@ -1,0 +1,21 @@
+.main {
+    width: 600px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgb(236, 213, 183);
+    color: rgba(223, 20, 84, 0.846);
+    border-bottom: 4px solid rgb(247, 57, 247);
+}
+
+.avatar {
+    width: 250px;
+    height: 300px;
+    border: 2px solid;
+}
+
+.contact {
+    color: rgb(22, 103, 103);
+}
